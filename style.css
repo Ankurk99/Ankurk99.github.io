@@ -1,0 +1,58 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    overflow: hidden;
+}
+
+.introhead { 
+    font-size: 3em;
+    font-family: 'Helvetica';
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    padding: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.heading {
+    font-size: 3em;
+    font-family: 'Helvetica';
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    padding: 18px;
+    color: rgb(0, 0, 0);
+}
+.heading {
+    font-size: 3em;
+    font-family: 'Helvetica';
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    padding: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.navbar {
+    font-size: 1.5em;
+    font-family: 'comfortaa';
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    word-spacing: 8px;
+    padding: 8px;
+    color: rgb(0, 0, 0);
+}
+
+.a {
+	font-size: 1.7em;
+	font-family: 'comfortaa';
+	width: 50%;
+	text-align: center;
+	margin: auto;
+	margin-top: 80px;
+	line-height: 2;
+	color: rgb(0, 0, 0);
+}
+
