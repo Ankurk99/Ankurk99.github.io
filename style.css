@@ -4,7 +4,7 @@ body {
 }
 
 .introhead { 
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Helvetica';
     width: 50%;
     text-align: center;
@@ -37,21 +37,33 @@ body {
 .navbar {
     font-size: 1.5em;
     font-family: 'comfortaa';
-    width: 50%;
+    width: auto;
     text-align: center;
     margin: auto;
-    word-spacing: 8px;
-    padding: 8px;
+    word-spacing: 1vw;
+    padding: 1vw;
     color: rgb(0, 0, 0);
+    overflow: hidden;
 }
 
 .a {
-	font-size: 1.7em;
+	font-size: 1.4em;
 	font-family: 'comfortaa';
-	width: 50%;
+	width: auto;
 	text-align: center;
 	margin: auto;
-	margin-top: 80px;
+	margin-top: 3vw;
+	line-height: 2;
+	color: rgb(0, 0, 0);
+}
+
+.b {
+	font-size: 1.3em;
+	font-family: 'comfortaa';
+	width: auto;
+	margin: auto;
+	margin-top: 3vw;
+	margin-left: auto;
 	line-height: 2;
 	color: rgb(0, 0, 0);
 }
