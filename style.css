@@ -3,35 +3,23 @@ body {
     overflow: hidden;
 }
 
-.introhead { 
-    font-size: 2em;
-    font-family: 'Helvetica';
-    width: 50%;
-    text-align: center;
-    margin: auto;
-    margin-top: 40px;
-    color: rgb(0, 0, 0);
-}
-
 .heading {
-    font-size: 3em;
+    font-size: 40;
     font-family: 'Helvetica';
     width: 50%;
     text-align: center;
     margin: auto;
-    margin-top: 30px;
-    padding: 10px;
+    margin-top: 20px;
     color: rgb(0, 0, 0);
 }
 
 .navbar {
-    font-size: 1.5em;
+    font-size: 24;
     font-family: 'comfortaa';
     width: auto;
     text-align: center;
     margin: auto;
     word-spacing: 1vw;
-    padding: 1vw;
     color: rgb(0, 0, 0);
     overflow: hidden;
 }
@@ -39,11 +27,11 @@ body {
 .box {
     display: table;
     position: relative;
-    margin: 10px auto 10px auto;
+    margin: 20px auto 10px auto;
 }
 
 .content {
-	font-size: 21;
+	font-size: 22;
 	font-family: 'Helvetica';
 	text-align: center;
 	position: relative;
