@@ -1,10 +1,10 @@
-body {
+html, body {
     font-family: 'Helvetica', sans-serif;
     overflow: hidden;
 }
 
 .heading {
-    font-size: 40;
+    font-size: 40px;
     font-family: 'Helvetica';
     width: 50%;
     text-align: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .navbar {
-    font-size: 24;
+    font-size: 24px;
     font-family: 'comfortaa';
     width: auto;
     text-align: center;
@@ -31,7 +31,7 @@ body {
 }
 
 .content {
-	font-size: 22;
+	font-size: 22px;
 	font-family: 'Helvetica';
 	text-align: center;
 	position: relative;
@@ -42,9 +42,4 @@ body {
 	color: rgb(0, 0, 0);
 }
 
-.date {
-	font-size: 0.8em;
-	text-align: center;
-	color: rgb(190, 190, 190);
-}
 
